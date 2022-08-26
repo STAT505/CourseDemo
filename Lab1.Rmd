@@ -100,4 +100,7 @@ print(glm_stanfit, digits = 2)
 We see that the results are very similar (more later) for both functions and, furthermore, there is not a substantial difference (more later here too) between the two groups.
 
 
+#### 8. Summarize Results
+
+The final part of the analysis is to summarize the results. Given the uncertainty in the parameter estimates, there is not evidence of a meaningful difference in the seropositivity between the symptomatic and asymptomatic groups.
 
